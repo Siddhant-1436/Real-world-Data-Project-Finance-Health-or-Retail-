@@ -1,0 +1,20 @@
+{
+  "Logistic Regression": {
+    "accuracy": 0.752,
+    "roc_auc": 0.8465452530290435,
+    "f1": 0.5474452554744526
+  },
+  "Random Forest": {
+    "accuracy": 0.79,
+    "roc_auc": 0.8189626942744148,
+    "f1": 0.5714285714285714
+  },
+  "best_model": "Logistic Regression",
+  "top_features": {
+    "glucose": 0.28885718515385966,
+    "age": 0.18714225041886445,
+    "bmi": 0.13470789003204403,
+    "cholesterol": 0.11337973235135076,
+    "systolic_bp": 0.08400376595433591
+  }
+}
